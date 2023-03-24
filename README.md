@@ -10,9 +10,9 @@ Conclusion This project demonstrates the use of a linear regression model to pre
 
 # These are some Screenshot of the game.
 
-<img src="https://github.com/06Reetu/House-Price-Prediction/blob/main/Screenshot/Screenshot%20(878).png" alt="alt text" height=400 width="800"/>   
+<img src="https://github.com/06Reetu/House-Price-Prediction/blob/main/Screenshot/Screenshot%20(878).png" alt="alt text" height=500 width="700"/>   
 
-<img src="https://github.com/06Reetu/House-Price-Prediction/blob/main/Screenshot/Screenshot%20(879).png" alt="alt text" height=400 width="800"/>   
+<img src="https://github.com/06Reetu/House-Price-Prediction/blob/main/Screenshot/Screenshot%20(879).png" alt="alt text" height=500 width="700"/>   
 
 
 Please do ⭐ the repository, if you like this.😊
